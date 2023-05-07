@@ -12,4 +12,4 @@ function validateEnv(): void{
     })
 }
 
-export default validateEnv
+export default validateEnv;
